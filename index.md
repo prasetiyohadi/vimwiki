@@ -1,41 +1,46 @@
-# Knowledge Base
+---
+title: Knowledge Base
+---
 
-* [Todo](todo): things to be done _yesterday_!!!
-* [Scratchpad](scratchpad): various temporary stuff.
+## General
 
-# Development
+* [Todo](todo.md): things to be done _yesterday_!!!
+* [Scratchpad](scratchpad.md): various temporary stuff.
 
-## Devsecops
+## Development
+
+### Devsecops
 
 * Secure container OS
 * VPS Setup
-* [Microservices](microservices)
-* [Production Grade Infrastructure](prod-infra)
+* [Microservices](microservices.md)
+* [Production Grade Infrastructure](prod-infra.md)
 
-## Interesting
+### Interesting
 
 * Computational Science
 * Physics
-* [Thesis](thesis)
+* [Thesis](thesis.md)
 
-## Shell
+### Shell
 
 * Bash Programming
 
-## Snippets & Tips
+### Snippets & Tips
 
 * Snipptes: ZSH, Bash, VIM
-* [Ansible](ansible)
+* [Ansible](ansible.md)
 * Go
 * Python
 * Rust
 
-## Configuration Examples
+### Configuration Examples
 
 * Nginx: Boilerplate Config
 
-# Projects
+## Projects
 
-## Github
+### Github
 
 * [Scripts](https://github.com/prasetiyohadi/scripts)
+* [Vimwiki](https://github.com/prasetiyohadi/vimwiki)

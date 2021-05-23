@@ -1,6 +1,8 @@
-[Index](index)
+---
+title: Ansible
+---
 
-# Ansible
+[Index](index.md)
 
-* [Tuning Ansible for Maximum Performance](ansible-tuning)
-* [Alter Ansible's output on debugging](ansible-alter-output)
+* [Tuning Ansible for Maximum Performance](ansible-tuning.md)
+* [Alter Ansible's output on debugging](ansible-alter-output.md)

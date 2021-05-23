@@ -1,6 +1,10 @@
-[Index](index)
+---
+title: Production Grade Infrastructure
+---
 
-# Production Grade Infrastructure: What I learned after writing 500k lines of infrastructure as code
+[Index](index.md)
+
+**Completion time of infrastructure project**
 
 | project                        | examples                           | time estimate |
 | ------------------------------ | ---------------------------------- | ------------- |
