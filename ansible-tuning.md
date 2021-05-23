@@ -1,7 +1,10 @@
-[Index](index)
-[Ansible](ansible)
+---
+title: Tuning Ansible for Maximum Performance
+---
 
-# Measuring Ansible Tasks Execution Time
+[Index](index.md) >> [Ansible](ansible.md)
+
+## Measuring Ansible Tasks Execution Time
 
 Update `ansible.cfg`
 ```

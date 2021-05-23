@@ -1,5 +1,7 @@
-[Index](index)
+---
+title: Thesis
+---
 
-# Thesis
+[Index](index.md)
 
-* [Improving the Environmental Stability of Methylammonium-Based Perovskite Solar Cells](titan-phd-thesis)
+* [Improving the Environmental Stability of Methylammonium-Based Perovskite Solar Cells](titan-phd-thesis.md)

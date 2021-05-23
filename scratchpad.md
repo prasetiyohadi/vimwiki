@@ -1,3 +1,5 @@
-[Index](index)
+---
+title: Scratchpad
+---
 
-# Scratchpad
+[Index](index.md)

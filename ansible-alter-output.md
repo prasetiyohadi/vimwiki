@@ -1,9 +1,11 @@
-[Index](index)
-[Ansible](ansible)
+---
+title: Alter Ansible's output on debugging
+---
 
-# Alter Ansible's output on debugging
+[Index](index.md) >> [Ansible](ansible.md)
 
-Use wrapper script for Ansible
+**Use wrapper script for Ansible**
+
 ```
 #!/bin/sh
 

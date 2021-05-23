@@ -1,5 +1,8 @@
-[Index](index)
-[Thesis](Thesis)
+---
+title: Improving the Environmental Stability of Methylammonium-Based Perovskite Solar Cells
+---
+
+[Index](index.md) >> [Thesis](thesis.md)
 
 PhD Thesis Defense
 Improving the Environmental Stability of Methylammonium-Based Perovskite Solar Cells
