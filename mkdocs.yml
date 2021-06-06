@@ -1,0 +1,6 @@
+---
+site_name: Vimwiki
+nav:
+  - Home: index.md
+theme:
+  name: material
