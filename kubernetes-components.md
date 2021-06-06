@@ -11,7 +11,7 @@ A Kubernetes cluster
 * control plane manages the worker nodes and the Pods
 * in production, the control plane runs across multiple computers and runs multiple nodes for fault-tolerance and high availability
 
-![components of kubernetes](components-of-kubernetes.png)
+![components of kubernetes](images/components-of-kubernetes.png)
 
 # Control Plane Components
 
