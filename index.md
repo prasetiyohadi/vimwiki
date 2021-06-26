@@ -9,22 +9,27 @@ title: Knowledge Base
 
 ## Cloud-Native
 
+* [AWS](aws.md)
 * [Kubernetes](kubernetes.md)
 
-## Development
+## DevSecOps
 
-### Devsecops
-
-* Secure container OS
-* VPS Setup
+* [DevOps Research and Assesment](dora.md)
+* [GitOps](gitops.md)
 * [Microservices](microservices.md)
 * [Production Grade Infrastructure](prod-infra.md)
+* [Site Reliability Engineering](sre.md)
 
-### Interesting
+## Open Source
 
-* Computational Science
-* Physics
-* [Thesis](thesis.md)
+* [Software Bill of Materials (SBOM)](sbom.md)
+
+## Projects
+
+* [Scripts](https://github.com/prasetiyohadi/scripts)
+* [Vimwiki](https://github.com/prasetiyohadi/vimwiki)
+
+## Development
 
 ### Shell
 
@@ -32,19 +37,20 @@ title: Knowledge Base
 
 ### Snippets & Tips
 
-* Snipptes: ZSH, Bash, VIM
 * [Ansible](ansible.md)
+* [Code Review](code-review.md)
 * Go
 * Python
 * Rust
+* Snipptes: ZSH, Bash, VIM
 
 ### Configuration Examples
 
 * Nginx: Boilerplate Config
 
-## Projects
+### Interesting
 
-### Github
-
-* [Scripts](https://github.com/prasetiyohadi/scripts)
-* [Vimwiki](https://github.com/prasetiyohadi/vimwiki)
+* Computational Science
+* [Computer Science](cs.md)
+* Physics
+* [Thesis](thesis.md)
